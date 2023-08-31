@@ -6,7 +6,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 95%;
+  width: 75%;
 }
 .weather__list {
   list-style-type: none;
